@@ -278,3 +278,7 @@ h4 {
 .project-language {
   margin-left: 250px;
 }
+
+.xp-none {
+  display: none;
+}
